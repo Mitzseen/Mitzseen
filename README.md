@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mitzseen
-- 👀 I’m interested in data science and software development. 
-- 🌱 I’m currently learning how to optimize algorithms. 
-- 📫 How to reach me by email mitzseen@outlook.com
+- 👀 I’m interested in data science and software development. Also looking for finance opportunities such as analysts and investment operations.
+- 🌱 Currently going to start my first internship over at Canna Milne in PA as an Investment Operations Intern. 
+- 📫 Reach me by email mitzseen@outlook.com
 
 <!---
 Mitzseen/Mitzseen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
